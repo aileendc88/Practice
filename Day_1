@@ -1,0 +1,13 @@
+/*create a nested array with these values in order: name, email, age. Call it me. ex.: var me = [["Ryan"], ['email@'], [29]]*/
+
+
+
+//flatten the array using two different higher order functions
+
+
+/*using the flattened me array create an object called Myself. The properties are the value types. i.e.: name: "Ryan"*/
+
+
+/*finally, create a callback function that is to be used after the Myself object is created. The callback will introduce you by printing "Hello World! I am [nameHere]". The callback function is named meMyselfAndI*/
+
+
